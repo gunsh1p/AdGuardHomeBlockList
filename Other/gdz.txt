@@ -2,16 +2,21 @@
 ||brainly.com^
 ||budu5.com^
 ||euroki.org^
+||euroki.app^
 ||gitem.ru^
 ||gdz.ru^
+||gdz.expert^
+||gdz.pub^
 ||gdz.me^
 ||gdz.fun^
 ||gdz.fm^
 ||gdz.ninja^
 ||gdz.ltd^
+||gdz.wiki^
 ||gdzbezmoroki.com^
 ||gdz-online.ru^
 ||gdz-online.com^
+||gdz-ru.work^
 ||gdzputina.ru^
 ||gdzputina.net^
 ||gdz-putina.ru^
@@ -19,6 +24,7 @@
 ||gdz-putina.info^
 ||gdz-resheba.ru^
 ||gdz-free.com^
+||gdzbot.com^
 ||gdz-bot.ru^
 ||megabotan.ru^
 ||megaresheba.ru^
@@ -26,8 +32,9 @@
 ||megashpora.com^
 ||mysoch.ru^
 ||my-gdz.ru^
-||ugdz.ru^
+||pomogalka.me^
 ||resh.me^
+||reshi.by^
 ||reshator.com^
 ||resheba.me^
 ||resheba.vip^
@@ -51,6 +58,7 @@
 ||schoolotvety.ru^
 ||testsoch.net^
 ||terver.ru^
+||ugdz.ru^
 ||vashurok.ru^
 ||xn--c1acj.xn--p1ai^ # гдз.рф
 ||xumuk.com^
