@@ -1,12 +1,15 @@
 ||1klass.org^
 ||11klasov.net^
+||4book.org^
 ||5terka.com^
+||5urokov.ru^
 ||7gy.ru^
 ||angl-gdz.ru^
 ||brainly.com^
 ||budu5.com^
 ||euroki.org^
 ||euroki.app^
+||freegdz.com^
 ||gitem.ru^
 ||gitem.me^
 ||gdegdz.ru^
@@ -19,6 +22,7 @@
 ||gdz.fun^
 ||gdz.fm^
 ||gdz.ninja^
+||gdz.one^
 ||gdz.ltd^
 ||gdz.lol^
 ||gdz.wiki^
@@ -27,6 +31,7 @@
 ||gdz4you.com^
 ||gdz24.com^
 ||gdzbezmoroki.com^
+||gdz-geo.ru^
 ||gdz-online.ru^
 ||gdz-online.com^
 ||gdz-ru.work^
@@ -40,15 +45,20 @@
 ||gdz-raketa.ru^
 ||gdz-resheba.ru^
 ||gdz-free.com^
+||gdzclass.ru^
 ||gdz-shok.ru^
+||gdz-spishy.ru^
 ||gdzbot.com^
 ||gdz-bot.ru^
 ||gdzguru.com^
 ||gdzvsem.ru^
 ||gdzwow.com^
 ||hypergdz.com^
+||kzgdz.com^
+||lovegdz.com^
 ||mateshka.ru^
 ||megabotan.ru^
+||megabotan.org^
 ||megaresheba.ru^
 ||megaresheba.com^
 ||megaresheba.net^
@@ -59,8 +69,14 @@
 ||mysoch.ru^
 ||my-gdz.ru^
 ||mydomashka.ru^
+||na5.ru^
+||na5.fun^
+||nashol.me^
+||onlinegdz.app^
+||obuchalka.org^
 ||otvetkin.info^
 ||otvet.plus^
+||otvetkz.com^
 ||shkola.obozrevatel.com^
 ||pomogalka.me^
 ||resh.me^
@@ -71,8 +87,11 @@
 ||resheba.vip^
 ||resheba.com^
 ||resheba.biz^
+||resheba.top^
+||resheba.wiki^
 ||reshalka.com^
 ||reshalka.me^
+||resheba-na5.ru^
 ||reshebnik.com^
 ||reshebnik.school^
 ||reshak.ru^
@@ -82,6 +101,7 @@
 ||spishi.me^
 ||spishi.fun^
 ||spishi.ltd^
+||spishigdz.ru^
 ||superresheba.by^
 ||seznaika.ru^
 ||spishy-ru.ru^
@@ -94,10 +114,14 @@
 ||terver.ru^
 ||uchim.org^
 ||ugdz.ru^
+||ukrdz.in.ua^
+||urokitv.net^
 ||vashurok.ru^
 ||vipgdz.com^
 ||vshkole.com^
 ||xn--c1acj.xn--p1ai^ # гдз.рф
+||xn--c1acj.xn--p1acf^ # гдз.рус
+||xn--80aalckjuk.xn--p1ai^ # незадали.рф
 ||xn----7sbkrwmcpclp7h.xn--p1ai^ # списать-могу.рф
 ||xumuk.com^
 ||yagdz.com^
