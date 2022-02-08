@@ -19,6 +19,7 @@
 ||gdz.pub^
 ||gdz.me^
 ||gdz.moda^
+||gdz.name^
 ||gdz.fun^
 ||gdz.fm^
 ||gdz.ninja^
@@ -34,6 +35,7 @@
 ||gdz-geo.ru^
 ||gdz-online.ru^
 ||gdz-online.com^
+||gdz-online.ws^
 ||gdz-ru.work^
 ||gdzputina.ru^
 ||gdzputina.net^
@@ -51,11 +53,17 @@
 ||gdzbot.com^
 ||gdz-bot.ru^
 ||gdzguru.com^
+||gdzotvet.ru^
+||gdzotveti.ru^
 ||gdzvsem.ru^
 ||gdzwow.com^
 ||hypergdz.com^
+||izigdz.ru^
+||ja-uchenik.ru^
 ||kzgdz.com^
+||kakkak.net^
 ||lovegdz.com^
+||matematika-doma.org^
 ||mateshka.ru^
 ||megabotan.ru^
 ||megabotan.org^
@@ -68,6 +76,7 @@
 ||megashpora.com^
 ||mysoch.ru^
 ||my-gdz.ru^
+||mygdz.net^
 ||mydomashka.ru^
 ||na5.ru^
 ||na5.fun^
@@ -112,6 +121,7 @@
 ||gdz.tutoronline.ru^
 ||testsoch.net^
 ||terver.ru^
+||torgu.net^
 ||uchim.org^
 ||ugdz.ru^
 ||ukrdz.in.ua^
@@ -123,6 +133,7 @@
 ||xn--c1acj.xn--p1acf^ # гдз.рус
 ||xn--80aalckjuk.xn--p1ai^ # незадали.рф
 ||xn----7sbkrwmcpclp7h.xn--p1ai^ # списать-могу.рф
+||xn----9sbejadsqzno6ac7e.xn--p1ai # решебник-ответ.рф
 ||xumuk.com^
 ||yagdz.com^
 ||znanija.com^
