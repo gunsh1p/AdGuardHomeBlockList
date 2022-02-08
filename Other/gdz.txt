@@ -129,6 +129,7 @@
 ||vashurok.ru^
 ||vipgdz.com^
 ||vshkole.com^
+||гдз.рф^
 ||xn--c1acj.xn--p1ai^ # гдз.рф
 ||xn--c1acj.xn--p1acf^ # гдз.рус
 ||xn--80aalckjuk.xn--p1ai^ # незадали.рф
