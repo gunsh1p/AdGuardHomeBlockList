@@ -133,7 +133,8 @@
 ||xn--c1acj.xn--p1acf^ # гдз.рус
 ||xn--80aalckjuk.xn--p1ai^ # незадали.рф
 ||xn----7sbkrwmcpclp7h.xn--p1ai^ # списать-могу.рф
-||xn----9sbejadsqzno6ac7e.xn--p1ai # решебник-ответ.рф
+||xn----9sbejadsqzno6ac7e.xn--p1ai^ # решебник-ответ.рф
+||xn----7sbbtbnv6bvx1b4d.xn--p1ai^ # илюха-решает.рф
 ||xumuk.com^
 ||yagdz.com^
 ||znanija.com^
