@@ -8,6 +8,7 @@
 ||angl-gdz.ru^
 ||brainly.com^
 ||budu5.com^
+||egdz.net^
 ||euroki.org^
 ||euroki.app^
 ||freegdz.com^
@@ -27,12 +28,14 @@
 ||gdz.one^
 ||gdz.ltd^
 ||gdz.lol^
+||gdz.life^
 ||gdz.wiki^
 ||gdz.world^
 ||gdz1.com^
 ||gdz4you.com^
 ||gdz24.com^
 ||gdzbezmoroki.com^
+||gdzbakulin.ru^
 ||gdz-geo.ru^
 ||gdz-online.ru^
 ||gdz-online.com^
@@ -59,10 +62,12 @@
 ||gdzvsem.ru^
 ||gdzwow.com^
 ||hypergdz.com^
+||himgdz.ru^
 ||izigdz.ru^
 ||ja-uchenik.ru^
 ||kzgdz.com^
 ||kakkak.net^
+||klacc.kz^
 ||lovegdz.com^
 ||matematika-doma.org^
 ||mateshka.ru^
@@ -82,6 +87,7 @@
 ||na5.ru^
 ||na5.fun^
 ||nashol.me^
+||nashol.com
 ||onlinegdz.app^
 ||obuchalka.org^
 ||otvetkin.info^
@@ -106,18 +112,22 @@
 ||reshebnik.school^
 ||reshak.ru^
 ||reshutka.ru^
+||sdelau-uroki.ru^
 ||stavcur.ru^
+||slovo.ws^
 ||spishi.ru^
 ||spishi.me^
 ||spishi.fun^
 ||spishi.ltd^
 ||spishigdz.ru^
+||spisivay.ru^
 ||superresheba.by^
 ||seznaika.ru^
 ||spishy-ru.ru^
 ||shpori-vsem.ru^
 ||shkolopedia.com^
 ||sprashivai.ru^
+||school-assistant.ru^
 ||schoolotvety.ru^
 ||gdz.tutoronline.ru^
 ||testsoch.net^
@@ -128,8 +138,10 @@
 ||ukrdz.in.ua^
 ||urokitv.net^
 ||vashurok.ru^
+||vcevce.ru^
 ||vipgdz.com^
 ||vshkole.com^
+||vsesdali.com^
 ||xn--c1acj.xn--p1ai^ # гдз.рф
 ||xn--c1acj.xn--p1acf^ # гдз.рус
 ||xn--80aalckjuk.xn--p1ai^ # незадали.рф
