@@ -1,3 +1,5 @@
+# VPN
+||browsec.com^
 # Social networks
 ||odnoklassniki.ru^$ctag=device_phone
 ||ok.ru^$ctag=device_phone
