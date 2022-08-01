@@ -18,10 +18,11 @@
 ||gotube.pro^$ctag=device_phone
 # Tik Tok's tracker
 ||byteoversea.com^
-# Radio
+# Radio and Music
 ||101.ru^
 ||hostingradio.ru^
 ||magonet.ru^
+||music.yandex.ru^
 # Kino, serial
 ||pluto.tv^
 ||tubitv.com^
