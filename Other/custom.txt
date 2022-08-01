@@ -21,6 +21,7 @@
 # Radio
 ||101.ru^$ctag=device_phone
 ||hostingradio.ru^$ctag=device_phone|device_pс
+||nashe1.hostingradio.ru^$ctag=device_phone|device_pс
 # Kino, serial
 ||pluto.tv^$ctag=device_phone|device_pс
 ||tubitv.com^$ctag=device_phone|device_pс
